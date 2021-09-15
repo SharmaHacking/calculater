@@ -1,2 +1,0 @@
-# calculater
-My first script
